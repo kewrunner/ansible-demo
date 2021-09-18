@@ -31,7 +31,7 @@ name: Deploy to Amazon ECS
 
 jobs:
   deploy:
-    name: Deploy
+    name: Deployment
     runs-on: ubuntu-latest
     environment: production
 
